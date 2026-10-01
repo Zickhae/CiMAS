@@ -1,303 +1,94 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1016/j.celrep.2025.116566
-  title: Temporary retinal inactivation reverses effects of long-term monocular deprivation
-    in visual cortex by induction of burst mode firing in the thalamus
+- id: doi:10.2514/1.G009119
+  title: Game-Theoretic Distributed Sensor Tasking in Earth Observation Satellite
+    Constellations
   authors:
-  - Madison Echavarri-Leet
-  - Tushar Chauhan
-  - Teresa L.M. Cramer
-  - Ming-fai Fong
-  - Mark F. Bear
-  publisher: Cell Reports
-  date: '2025-11-01'
-  link: https://doi.org/hbbw8k
-  orcid: 0000-0002-2336-4531
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.7554/eLife.97399
-  title: Patch-walking, a coordinated multi-pipette patch clamp for efficiently finding
-    synaptic connections
-  authors:
-  - Mighten C Yip
-  - Mercedes M Gonzalez
-  - Colby F Lewallen
-  - Corey R Landry
-  - Ilya Kolb
-  - Bo Yang
-  - William M Stoy
-  - Ming-fai Fong
-  - Matthew JM Rowan
-  - Edward S Boyden
-  - Craig R Forest
-  publisher: eLife
-  date: '2024-11-18'
-  link: https://doi.org/gtzht6
-  orcid: 0000-0002-2336-4531
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.7554/eLife.87753
-  title: GABAergic synaptic scaling is triggered by changes in spiking activity rather
-    than AMPA receptor activation
-  authors:
-  - Carlos Gonzalez-Islas
-  - Zahraa Sabra
-  - Ming-fai Fong
-  - Pernille Yilmam
-  - Nicholas Au Yong
-  - Kathrin Engisch
-  - Peter Wenner
-  publisher: eLife
-  date: '2024-06-28'
-  link: https://doi.org/gt4jqh
-  orcid: 0000-0002-2336-4531
+  - Donghae Kim
+  - Yoonjae Lee
+  - Andrew J. Miller
+  - Efstathios Bakolas
+  - Maruthi R. Akella
+  publisher: Journal of Guidance, Control, and Dynamics
+  date: '2026-04-01'
+  link: https://doi.org/hck68v
   plugin: sources.py
   file: sources.yaml
-  image: ../images/publications/gonzalez-islas2023-biorxiv_thumbnail.png
-- id: doi:10.7554/elife.89093
-  title: Reward contingency gates selective cholinergic suppression of amygdala neurons
+- id: doi:10.2514/6.2026-0110
+  title: Auction-Based Task Allocation Under Untruthful Agents
   authors:
-  - Eyal Y Kimchi
-  - Anthony Burgos-Robles
-  - Gillian A Matthews
-  - Tatenda Chakoma
-  - Makenzie Patarino
-  - Javier C Weddington
-  - Cody Siciliano
-  - Wannan Yang
-  - Shaun Foutch
-  - Renee Simons
-  - Ming-fai Fong
-  - Miao Jing
-  - Yulong Li
-  - Daniel B Polley
-  - Kay M Tye
-  publisher: eLife
-  date: '2024-02-20'
-  link: https://doi.org/gt63zd
-  orcid: 0000-0002-2336-4531
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.3389/fnins.2023.1167007
-  title: Investigation of the efficacy and safety of retinal inactivation as a treatment
-    for amblyopia in cats
-  authors:
-  - Mairin Hogan
-  - Nadia R. DiCostanzo
-  - Nathan A. Crowder
-  - Ming-fai Fong
-  - Kevin R. Duffy
-  publisher: Frontiers in Neuroscience
-  date: '2023-06-20'
-  link: https://doi.org/gsjtrm
-  orcid: 0000-0002-2336-4531
+  - Donghae Kim
+  - Maruthi R. Akella
+  publisher: AIAA SCITECH 2026 Forum
+  date: '2026-01-08'
+  link: https://doi.org/hck68w
   plugin: sources.py
   file: sources.yaml
-  image: ../images/publications/hogan2023-fnins_thumbnail.png
-- id: doi:10.7554/eLife.70023
-  title: Correction of amblyopia in cats and mice after the critical period
+- id: doi:10.23919/ACC63710.2025.11108101
+  title: Multilateral Monotonic Concession Protocol for Task Negotiation
   authors:
-  - Ming-fai Fong
-  - Kevin R Duffy
-  - Madison P Leet
-  - Christian T Candler
-  - Mark F Bear
-  publisher: eLife
-  date: '2021-08-31'
-  link: https://doi.org/gmqmgr
-  orcid: 0000-0002-2336-4531
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1523/jneurosci.1393-19.2020
-  title: Divergent Synaptic Scaling of Miniature EPSCs following Activity Blockade
-    in Dissociated Neuronal Cultures
-  authors:
-  - Amanda L. Hanes
-  - Andrew G. Koesters
-  - Ming-fai Fong
-  - Haider F. Altimimi
-  - David Stellwagen
-  - Peter Wenner
-  - Kathrin L. Engisch
-  publisher: The Journal of Neuroscience
-  date: '2020-04-20'
-  link: https://doi.org/gkcdsv
-  orcid: 0000-0002-2336-4531
+  - Donghae Kim
+  - Maruthi R. Akella
+  publisher: 2025 American Control Conference (ACC)
+  date: '2025-07-08'
+  link: https://doi.org/hck68x
   plugin: sources.py
   file: sources.yaml
-  image: ../images/publications/hanes2020-jneuro_thumbnail.png
-- id: doi:10.1093/cercor/bhz260
-  title: Distinct Laminar Requirements for NMDA Receptors in Experience-Dependent
-    Visual Cortical Plasticity
+- id: doi:10.1109/TASE.2025.3574289
+  title: Trust-Based Sequential Monotonic Concession Protocol for Two-Player Task
+    Negotiation
   authors:
-  - Ming-fai Fong
-  - Peter Sb Finnie
-  - Taekeun Kim
-  - Aurore Thomazeau
-  - Eitan S Kaplan
-  - Samuel F Cooke
-  - Mark F Bear
-  publisher: Cerebral Cortex
-  date: '2019-12-12'
-  link: https://doi.org/gkcdsx
-  orcid: 0000-0002-2336-4531
+  - Donghae Kim
+  - Maruthi R. Akella
+  publisher: IEEE Transactions on Automation Science and Engineering
+  date: '2025-01-01'
+  link: https://doi.org/hck68z
   plugin: sources.py
   file: sources.yaml
-  image: ../images/publications/fong2020-cerebctx_thumbnail.png
-- id: doi:10.1002/cne.24336
-  title: "Recovery from the anatomical effects of long\u2010term monocular deprivation\
-    \ in cat lateral geniculate nucleus"
+- id: doi:10.2514/1.G008324
+  title: Non-Myopic Sensor Scheduling for Linear Systems with Colored Noise
   authors:
-  - Kevin R. Duffy
-  - "Ming\u2010fai Fong"
-  - Donald E. Mitchell
-  - Mark F. Bear
-  publisher: Journal of Comparative Neurology
-  date: '2017-10-27'
-  link: https://doi.org/gcgzxt
-  orcid: 0000-0002-2336-4531
+  - Kirsten Tuggle
+  - Donghae Kim
+  - Maruthi Akella
+  - Takashi Tanaka
+  publisher: Journal of Guidance, Control, and Dynamics
+  date: '2025-03-01'
+  link: https://doi.org/hck682
   plugin: sources.py
   file: sources.yaml
-  image: ../images/publications/duffy2018-jcn_thumbnail.png
-- id: doi:10.1073/pnas.1613279113
-  title: Rapid recovery from the effects of early monocular deprivation is enabled
-    by temporary inactivation of the retinas
+- title: Game-theoretic sensor tasking for satellite constellation control with computational
+    scalability and performance guarantees
   authors:
-  - Ming-fai Fong
-  - Donald E. Mitchell
-  - Kevin R. Duffy
-  - Mark F. Bear
-  publisher: Proceedings of the National Academy of Sciences
-  date: '2016-11-17'
-  link: https://doi.org/f9f2gw
-  orcid: 0000-0002-2336-4531
+  - '**Donghae Kim**'
+  - Yoonjae Lee
+  - Andrew J. Miller
+  - Maruthi R. Akella
+  publisher: Proceedings of the 75th International Astronautical Congress (IAC)
+  date: ''
+  type: paper
   plugin: sources.py
   file: sources.yaml
-  image: ../images/publications/fong2016-pnas_thumbnail.png
-- id: doi:10.7554/elife.07192
-  title: Optogenetic feedback control of neural activity
+- id: doi:10.23919/ACC60939.2024.10644208
+  title: Two-Player Task Negotiation Based on Trust
   authors:
-  - Jonathan P Newman
-  - Ming-fai Fong
-  - Daniel C Millard
-  - Clarissa J Whitmire
-  - Garrett B Stanley
-  - Steve M Potter
-  publisher: eLife
-  date: '2015-07-03'
-  link: https://doi.org/ghbdss
-  orcid: 0000-0002-2336-4531
+  - Donghae Kim
+  - Maruthi R. Akella
+  publisher: 2024 American Control Conference (ACC)
+  date: '2024-07-10'
+  link: https://doi.org/hck683
   plugin: sources.py
   file: sources.yaml
-  image: ../images/publications/newman2015-elife_thumbnail.png
-- id: doi:10.1038/ncomms7339
-  title: Upward synaptic scaling is dependent on neurotransmission rather than spiking
+- id: doi:10.2514/1.G001739
+  title: Reinforcement Learning-Based Optimal Flat Spin Recovery for Unmanned Aerial
+    Vehicle
   authors:
-  - Ming-fai Fong
-  - Jonathan P. Newman
-  - Steve M. Potter
-  - Peter Wenner
-  publisher: Nature Communications
-  date: '2015-03-09'
-  link: https://doi.org/f67qht
-  orcid: 0000-0002-2336-4531
-  plugin: sources.py
-  file: sources.yaml
-  image: ../images/publications/fong2015-natcomm_thumbnail.png
-- id: doi:10.3389/fncir.2012.00098
-  title: Closed-Loop, Multichannel Experimentation Using the Open-Source NeuroRighter
-    Electrophysiology Platform
-  authors:
-  - Jonathan P. Newman
-  - Riley Zeller-Townson
-  - Ming-Fai Fong
-  - Sharanya Arcot Desai
-  - Robert E. Gross
-  - Steve M. Potter
-  publisher: Frontiers in Neural Circuits
-  date: '2013-01-01'
-  link: https://doi.org/gkcds5
-  orcid: 0000-0002-2336-4531
-  plugin: sources.py
-  file: sources.yaml
-  image: ../images/publications/newman2013-fncir_thumbnail.png
-- id: doi:10.3389/fncir.2013.00184
-  title: Delivery of continuously-varying stimuli using channelrhodopsin-2
-  authors:
-  - Tatjana Tchumatchenko
-  - Jonathan P. Newman
-  - Ming-fai Fong
-  - Steve M. Potter
-  publisher: Frontiers in Neural Circuits
-  date: '2013-01-01'
-  link: https://doi.org/ghbhp2
-  orcid: 0000-0002-2336-4531
-  plugin: sources.py
-  file: sources.yaml
-  image: ../images/publications/tchumatchenko-newman2013-fncir_thumbnail.png
-- id: doi:10.1186/1471-2202-13-s1-p71
-  title: Amplitude modulated photostimulation for probing neuronal network dynamics
-  authors:
-  - Jonathan P Newman
-  - Tatjana Tchumatchenko
-  - Ming-fai Fong
-  - Steve M Potter
-  publisher: BMC Neuroscience
-  date: '2012-07-01'
-  link: https://doi.org/gb5hjf
-  orcid: 0000-0002-2336-4531
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1109/robot.2004.1302452
-  title: Actuating a simple 3D passive dynamic walker
-  authors:
-  - R. Tedrake
-  - T.W. Zhang
-  - ' Ming-fai Fong'
-  - H.S. Seung
-  publisher: IEEE International Conference on Robotics and Automation, 2004. Proceedings.
-    ICRA '04. 2004
-  date: '2004-01-01'
-  link: https://doi.org/dv3zh3
-  orcid: 0000-0002-2336-4531
-  plugin: sources.py
-  file: sources.yaml
-  image: ../images/publications/tedrake2004-icra_thumbnail.png
-- id: 10.7554/eLife.89093
-  title: Reward contingency gates selective cholinergic suppression of amygdala neurons
-  authors:
-  - Eyal Y Kimchi
-  - Anthony Burgos-Robles
-  - Gillian A Matthews
-  - Tatenda Chakoma
-  - Makenzie Patarino
-  - Javier C Weddington
-  - Cody Siciliano
-  - Wannan Yang
-  - Shaun Foutch
-  - Renee Simons
-  - Ming-fai Fong
-  - Miao Jing
-  - Yulong Li
-  - Daniel B Polley
-  - Kay M Tye
-  publisher: eLife
-  date: '2024-02-20'
-  link: https://doi.org/gt63zd
-  image: ../images/publications/kimchi2022-biorxiv_thumbnail.png
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/elife.70023
-  title: Correction of amblyopia in cats and mice after the critical period
-  authors:
-  - Ming-fai Fong
-  - Kevin R Duffy
-  - Madison P Leet
-  - Christian T Candler
-  - Mark F Bear
-  publisher: eLife
-  date: '2021-08-31'
-  link: https://doi.org/gmqmgr
-  image: ../images/publications/fong-duffy2021-elife_thumbnail.png
+  - Donghae Kim
+  - Gyeongtaek Oh
+  - Yongjun Seo
+  - Youdan Kim
+  publisher: Journal of Guidance, Control, and Dynamics
+  date: '2017-04-01'
+  link: https://doi.org/hck684
   plugin: sources.py
   file: sources.yaml
