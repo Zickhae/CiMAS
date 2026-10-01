@@ -1,2 +1,2 @@
-Visit **[zickhae.github.io/test](https://zickhae.github.io/test)** 🚀
+Visit **[zickhae.github.io/CiMAS](https://zickhae.github.io/CiMAS)** 🚀
 
