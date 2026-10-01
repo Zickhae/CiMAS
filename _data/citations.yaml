@@ -60,12 +60,12 @@
 - title: Game-theoretic sensor tasking for satellite constellation control with computational
     scalability and performance guarantees
   authors:
-  - '**Donghae Kim**'
+  - Donghae Kim
   - Yoonjae Lee
   - Andrew J. Miller
   - Maruthi R. Akella
   publisher: Proceedings of the 75th International Astronautical Congress (IAC)
-  date: ''
+  date: '2024-10-18'
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -95,13 +95,13 @@
 - title: Spin entry analysis based on bifurcation analysis and recovery controller
     design
   authors:
-  - '**Donghae Kim**'
+  - Donghae Kim
   - Gyeongtaek Oh
   - Yongjun Seo
   - Youdan Kim
   publisher: Proceedings of the 7th Asia-Pacific International Symposium on Aerospace
     Technology Conference (APISAT)
-  date: ''
+  date: '2015-11-27'
   type: paper
   plugin: sources.py
   file: sources.yaml
