@@ -45,11 +45,11 @@ If you are an undergraduate student interested in a fellowship or summer interns
 
 If you are interested in our research but applying to another undergraduate research program based at Georgia Tech or Emory, feel free to contact us and we can determine if we are eligible to take accept student from that program.
 
-### High school students
+<!-- ### High school students
 We accept high school students into our lab who are part of one of the following programs:
 
 [Georgia Tech Project ENGAGES](https://projectengages.gatech.edu) <br>
 [Emory Next Gen Scholars](https://med.emory.edu/departments/human-genetics/next-gen.html) <br>
 [Cristo Rey Atlanta Corporate Work-Study Program](https://www.cristoreyatlanta.org/work-study/program-overview) <br>
 
-**We cannot accept high school students into our lab unless they are part of an official program at Georgia Tech or Emory.**  If you are interested in our research, we encourage you to apply to one of the programs and request our lab as one that interests you.  If you are applying for a different summer internship or work-study program that has an existing partnership with Georgia Tech or Emory, feel free to contact that program to ask whether our lab would be eligible to participate.
+**We cannot accept high school students into our lab unless they are part of an official program at Georgia Tech or Emory.**  If you are interested in our research, we encourage you to apply to one of the programs and request our lab as one that interests you.  If you are applying for a different summer internship or work-study program that has an existing partnership with Georgia Tech or Emory, feel free to contact that program to ask whether our lab would be eligible to participate. -->
