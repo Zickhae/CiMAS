@@ -1,10 +1,2 @@
+Visit **[fong-lab.github.io](https://fong-lab.github.io)** 🚀
 
-  ![on-push](../../actions/workflows/on-push.yaml/badge.svg)
-  ![on-pull-request](../../actions/workflows/on-pull-request.yaml/badge.svg)
-  ![on-schedule](../../actions/workflows/on-schedule.yaml/badge.svg)
-
-  # Zickhae's Website
-
-  Visit **[zickhae.github.io/test](https://zickhae.github.io/test)** 🚀
-
-  _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_

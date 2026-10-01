@@ -1,23 +1,40 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+- id: doi:10.7554/eLife.87753
+  image: ../images/publications/gonzalez-islas2023-biorxiv_thumbnail.png
+  publisher: eLife
+  
+- id: doi:10.3389/fnins.2023.1167007
+  image: ../images/publications/hogan2023-fnins_thumbnail.png
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: 10.7554/eLife.89093
+  image: ../images/publications/kimchi2022-biorxiv_thumbnail.png
+  publisher: eLife
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.7554/elife.70023
+  image: ../images/publications/fong-duffy2021-elife_thumbnail.png
+
+- id: doi:10.1523/jneurosci.1393-19.2020 
+  image: ../images/publications/hanes2020-jneuro_thumbnail.png
+
+- id: doi:10.1093/cercor/bhz260
+  image: ../images/publications/fong2020-cerebctx_thumbnail.png
+
+- id: doi:10.1002/cne.24336
+  image: ../images/publications/duffy2018-jcn_thumbnail.png
+
+- id: doi:10.1073/pnas.1613279113
+  image: ../images/publications/fong2016-pnas_thumbnail.png
+
+- id: doi:10.7554/elife.07192
+  image: ../images/publications/newman2015-elife_thumbnail.png
+
+- id: doi:10.1038/ncomms7339
+  image: ../images/publications/fong2015-natcomm_thumbnail.png
+
+- id: doi:10.3389/fncir.2013.00184
+  image: ../images/publications/tchumatchenko-newman2013-fncir_thumbnail.png
+
+- id: doi:10.3389/fncir.2012.00098
+  image: ../images/publications/newman2013-fncir_thumbnail.png
+
+- id: doi:10.1109/robot.2004.1302452
+  image: ../images/publications/tedrake2004-icra_thumbnail.png
