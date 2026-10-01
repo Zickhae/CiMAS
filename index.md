@@ -1,10 +1,10 @@
 ---
 ---
-# Harnessing plasticity for neural rehabilitation and lifelong learning
-The Fong Lab is a team of scientists and engineers seeking to understand how activity and experience drive plasticity in neural circuits.  Our goal is to harness knowledge of plasticity in the mammalian brain to develop treatments for neurological disorders and to promote lifelong learning.  Toward this goal, we use a variety of approaches including electrophysiology, imaging, optogenetics, modeling, and control systems engineering.  Current work focuses on disability, rehabilitation, and learning in the central visual system.
+# Control Group for Intelligent Multi-agent Systems (CiMAS)
+CiMAS is a group of researchers seeking to develop guidance, navigation, and control for resilient autonomy in multi-agent systems. Our goal is to bridge the gap between control theory and real-world deployment by designing scalable, robust algorithmic frameworks. By leveraging dynamic interactions between individual agents, we optimize overall system performance to ensure distributed robotic teams coordinate seamlessly, adapt to uncertainties, and maintain fail-safe intelligence in complex environments.
 
-{%
+<!-- {%
   include figure.html
   image="images/photos/2025-05-15_lab-photo.jpg"
   width="90%"
-%}
+%} -->
