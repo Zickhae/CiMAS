@@ -92,3 +92,16 @@
   link: https://doi.org/hck684
   plugin: sources.py
   file: sources.yaml
+- title: Spin entry analysis based on bifurcation analysis and recovery controller
+    design
+  authors:
+  - '**Donghae Kim**'
+  - Gyeongtaek Oh
+  - Yongjun Seo
+  - Youdan Kim
+  publisher: Proceedings of the 7th Asia-Pacific International Symposium on Aerospace
+    Technology Conference (APISAT)
+  date: ''
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
