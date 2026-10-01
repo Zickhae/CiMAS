@@ -1,1 +1,1 @@
-Sitemap: https://zickhae.github.io/test/sitemap.xml
+Sitemap: https://zickhae.github.io/CiMAS/sitemap.xml
