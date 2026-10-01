@@ -8,9 +8,7 @@
 
 - id: doi:10.2514/1.G008324
 
-- id: conf-paper-IAC
-  manual: true
-  title: "Game-theoretic sensor tasking for satellite constellation control with computational scalability and performance guarantees"
+- title: "Game-theoretic sensor tasking for satellite constellation control with computational scalability and performance guarantees"
   authors:
     - "**Donghae Kim**"
     - "Yoonjae Lee"
