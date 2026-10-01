@@ -1,16 +1,16 @@
 # site properties and page defaults
-title: Fong Lab
-subtitle: 
-description: Harnessing plasticity for neural rehabilitation and lifelong learning
+title: CiMAS
+subtitle: Control Group for Intelligent Multi-agent Systems
+description: Guidance, navigation, and control for resilient autonomy in multi-agent systems
 header: images/mas.jpg
 footer: images/mas.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: ming-fai.fong@bme.gatech.edu
-  orcid: 0000-0002-2336-4531
-  google-scholar: xlVG6IUAAAAJ
+  email: donghae.kim@dgist.ac.kr
+  orcid: 0009-0000-8440-5408
+  google-scholar: qDxUa2kAAAAJ
 
 
 ### jekyll settings
