@@ -36,14 +36,14 @@ If you are a Georgia Tech student interested in working in the lab, please fill 
 
 If you are an undergraduate student interested in a fellowship or summer internship, we accept students from many different programs.  Some examples include:
 
-[Georgia Tech SURE](https://sure.gatech.edu/)  (undergraduates from any university)<br>
+<!-- [Georgia Tech SURE](https://sure.gatech.edu/)  (undergraduates from any university)<br>
 [Georgia Tech ESTEEMED](https://esteemed.bme.gatech.edu/) (Georgia Tech undergraduates)<br>
 [Georgia Tech Neuroscience REU](https://reu.neuroscience.gatech.edu/) (undergraduates from any university)<br>
 [Emory Ophthalmology SEE Program](https://med.emory.edu/departments/ophthalmology/ophthalmic-education/medical-student-education.html) (undergraduates or 1st/2nd year medical students)<br>
 [Georgia Tech Petit Scholars Program](https://research.gatech.edu/bio/petit-undergraduate-research-scholars-program) (Georgia Tech undergraduates) <br>
 [Emory LGS-SOAR Program](https://gs.emory.edu/diversity/programming/lgs-soar/index.html) (non-Emory undergraduates)<br>
 
-If you are interested in our research but applying to another undergraduate research program based at Georgia Tech or Emory, feel free to contact us and we can determine if we are eligible to take accept student from that program.
+If you are interested in our research but applying to another undergraduate research program based at Georgia Tech or Emory, feel free to contact us and we can determine if we are eligible to take accept student from that program. -->
 
 <!-- ### High school students
 We accept high school students into our lab who are part of one of the following programs:
