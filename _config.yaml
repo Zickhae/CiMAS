@@ -69,3 +69,6 @@ exclude:
   - README.md
   - LICENSE.md
   - CITATION.cff
+
+header-dark: false  # Changes the overlay from a dark mask to a light mask
+footer-dark: false  # Changes the overlay from a dark mask to a light mask
