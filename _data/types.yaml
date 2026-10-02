@@ -116,13 +116,14 @@ search:
   text: Search
   tooltip: Search
 
+
+# social media
+
 cv:
   icon: fa-brands fa-file-pdf
   text: CV
   tooltip: Curriculum Vitae
-
-
-# social media
+  link: $VALUE
 
 orcid:
   icon: fa-brands fa-orcid
