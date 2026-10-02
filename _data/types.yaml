@@ -119,12 +119,6 @@ search:
 
 # social media
 
-cv:
-  icon: fa-solid fa-file-pdf
-  text: CV
-  tooltip: Curriculum Vitae
-  link: $VALUE
-
 orcid:
   icon: fa-brands fa-orcid
   text: ORCID
