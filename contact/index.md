@@ -15,7 +15,7 @@ If you are interested in joining the lab, please review information on [this pag
 
 ## Directions
 
-We are part of the [Department of Robotics and Mechatronics Engineering](https://www.dgist.ac.kr/robot/) at DGIST.  The office and the lab are located on the E7 and E5 buildings, respectively, of the campus.
+We are part of the [Department of Robotics and Mechatronics Engineering](https://www.dgist.ac.kr/robot/) at DGIST.  The office and the lab are located on the E7.207, and E5.605, respectively, of the campus.
 
 Address: 333 Techno Jungang-daero, Hyeonpung-eup, Dalseong-gun, Daegu, 42988, Republic of Korea.
 
