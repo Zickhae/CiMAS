@@ -120,7 +120,7 @@ search:
 # social media
 
 cv:
-  icon: fa-brands fa-file-pdf
+  icon: fa-solid fa-file-pdf
   text: CV
   tooltip: Curriculum Vitae
   link: $VALUE
