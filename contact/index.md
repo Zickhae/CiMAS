@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-regular fa-paper-plane" %}Contact
 
 
-If you are interested in joining the lab, please review information on [this page](https://zickhae.github.io/cimas/join/). Other inquiries can be directed to [donghae.kim@dgist.ac.kr](mailto:donghae.kim@dgist.ac.kr).
+If you are interested in joining the lab, please review information on [this page](https://zickhae.github.io/CiMAS/join/). Other inquiries can be directed to [donghae.kim@dgist.ac.kr](mailto:donghae.kim@dgist.ac.kr).
 {:.center}
 
 {% include section.html %}
