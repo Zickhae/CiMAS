@@ -116,6 +116,12 @@ search:
   text: Search
   tooltip: Search
 
+cv:
+  icon: fa-solid fa-file-pdf
+  text: CV
+  tooltip: Curriculum Vitae
+
+
 # social media
 
 orcid:
@@ -172,10 +178,6 @@ linkedin:
   tooltip: LinkedIn
   link: https://www.linkedin.com/in/$VALUE
 
-cv:
-  icon: fa-solid fa-up-right-from-square
-  text: External Link
-  tooltip: CV
 # alerts
 
 tip:
