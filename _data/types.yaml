@@ -116,6 +116,11 @@ search:
   text: Search
   tooltip: Search
 
+cv:
+  icon: fa-solid fa-up-right-from-square
+  text: External Link
+  tooltip: External link
+
 # social media
 
 orcid:
