@@ -107,31 +107,3 @@
   raw: true
   plugin: sources.py
   file: sources.yaml
-- title: Dilemma-Free Pursuer Routing for Target Defense
-  authors:
-  - Yoonjae Lee
-  - Donghae Kim
-  - Efstathios Bakolas
-  publisher: Manuscript in preparation
-  type: paper
-  raw: true
-  plugin: sources.py
-  file: sources.yaml
-- title: Trust-based Task Auction with Untruthful Agents
-  authors:
-  - Donghae Kim
-  - Maruthi R. Akella
-  publisher: Manuscript in preparation
-  type: paper
-  raw: true
-  plugin: sources.py
-  file: sources.yaml
-- title: Multilateral Task Negotiation Based on Trust
-  authors:
-  - Donghae Kim
-  - Maruthi R. Akella
-  publisher: Under review
-  type: paper
-  raw: true
-  plugin: sources.py
-  file: sources.yaml
