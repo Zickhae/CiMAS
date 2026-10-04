@@ -30,10 +30,3 @@ Address: 333 Techno Jungang-daero, Hyeonpung-eup, Dalseong-gun, Daegu, 42988, Re
     referrerpolicy="no-referrer-when-downgrade">
   </iframe>
 </div>
-
-<!-- {%
-  include feature.html
-  image="http://walshwebsiteassets.blob.core.windows.net/sitedocs/images/georgiatechuawhitakerbiomedicalengineeringbuilding1-8462.jpg"
-  headline=""
-  text=text
-%} -->
