@@ -6,7 +6,7 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-hands-helping" %} Join
-We welcome students from diverse academic backgrounds who are interested in control, robotics, and intelligent multi-agent systems. I am committed to providing mentorship and research training that prepare students for careers in academia and industry. My goal is to help students become independent researchers who can develop rigorous theoretical insights and apply them to practical engineering problems.
+We welcome students from diverse academic backgrounds who are interested in control, robotics, and intelligent multi-agent systems. Dr. Kim is committed to providing mentorship and research training that prepare students for careers in academia and industry. His goal is to help students become independent researchers who can develop rigorous theoretical insights and apply them to practical engineering problems.
 
 {% include section.html %}
 
