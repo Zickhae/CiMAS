@@ -34,17 +34,6 @@
   type: paper
   raw: true
 
-- title: "Your manuscript title"
-  authors:
-    - "Yoonjae Lee"
-    - "Donghae Kim"
-    - "Efstathios Bakolas"
-  publisher: "Manuscript in preparation"
-  type: paper
-  raw: true
-  tags:
-    - in preparation
-
 - title: "Dilemma-Free Pursuer Routing for Target Defense"
   authors:
     - "Yoonjae Lee"
