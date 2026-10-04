@@ -14,3 +14,6 @@ nav:
 {% include search-info.html %}
 
 {% include list.html data="citations" component="citation" style="standard" %}
+
+# Working Papers
+{% include list.html data="citations_working" component="citation" style="standard" %}
