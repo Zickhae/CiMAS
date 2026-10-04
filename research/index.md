@@ -12,21 +12,9 @@ nav:
 ## Current Projects
 
 {% capture text %}
-Visual deprivation is a classic paradigm for studying how transient disruptions to sensory experience can drive long-term plasticity in the brain.  We investigate how the quality of visual experience differentially impacts activity statistics in the visual thalamus and cortex, and design tools to probe causal relationships between altered activity statistics and long-term plasticity.
+**Collaborative Coordination of Robots**
 
-
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/research/cortical-spindle-lgn-stim.png"
-  headline="Experience-dependent plasticity in visual circuits"
-  text=text
-%}
-
-{% capture text %}
-With any perturbation to activity or experience, the probability that a neural circuit will undergo plasticity is state-dependent.  For instance, the capacity for plasticity tends to decline with age, lending support to the concept of critical periods.  We develop neural interfaces and control architectures for precisely regulating spiking to create activity states that support plasticity at the cellular, synaptic, and circuit levels.
+We study how teams of robots can coordinate their actions to accomplish complex tasks efficiently. Our research addresses task allocation, resource allocation, and cooperative routing through market-based approaches, distributed optimization, and consensus-based control. By combining optimization, game theory, and decision-making methods, we investigate how interactions among individual agents shape collective performance and develop efficient algorithms for coordinating robotic teams.
 <br>
 
 {:.center}
@@ -34,20 +22,39 @@ With any perturbation to activity or experience, the probability that a neural c
 
 {%
   include feature.html
-  image="images/research/closed-loop-visual-system.png"
-  headline="Neural interfaces for biasing plasticity"
+  image="images/research/3P_coord.png"
+  headline="3P Collaborative Routing"
   text=text
 %}
 
 {% capture text %}
-Amblyopia is a widespread neurodevelopmental visual impairment that arises from maladaptive plasticity during infancy or early childhood.  We aim to develop novel therapeutics for amblyopia that leverage our knowledge of plasticity at different ages and disease severities.  Treatment strategies range from neuroprosthetic implants that directly stimulate the brain to minimally invasive manipulations to visual experience or behavior.
+**Resilient Distributed Control**
+
+Robotic teams must operate reliably despite uncertainty, communication limitations, and potentially malicious or deceptive agents. We develop distributed control and decision-making methods that enable agents to coordinate without relying on a central controller, while maintaining resilience to disruptions and adversarial behavior. Our research explores fair allocation principles, incentive mechanisms that encourage cooperation, and estimation and learning methods for inferring unknown system characteristics and agent behavior.
+<br>
 
 {:.center}
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/research/preclinical-amblyopia-research.png"
-  headline="Plasticity-based interventions for visual impairment"
+  image="images/research/2P_trust.png"
+  headline="Trust-based Information Exchanges"
+  text=text
+%}
+
+{% capture text %}
+**Robotic Autonomy**
+
+Individual robots need greater autonomy as robotic teams grow in size and operate beyond reliable human supervision. Our research connects guidance, navigation, and control with distributed decision-making, enabling robots to estimate their state and surroundings, plan their motion, and coordinate with neighboring agents. We focus on swarm robotics under communication delays, intermittent connectivity, and unreliable information, with applications spanning aerospace, ground, and maritime systems.
+<br>
+
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/research/DSA.png"
+  headline="Satellite Constellation Control"
   text=text
 %}
