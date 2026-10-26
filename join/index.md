@@ -11,7 +11,7 @@ We welcome students from diverse academic backgrounds who are interested in cont
 {% include section.html %}
 
 # Open Positions
-We are recruiting the first cohort of graduate students for CiMAS! If you are interested in joining our group, please email [donghae.kim@dgist.ac.kr](mailto:donghae.kim@dgist.ac.kr) with your CV and a brief introduction describing your academic background and research interests.
+We are recruiting the first cohort of graduate students for CiMAS! If you are interested in joining our group, please email [donghae.kim@dgist.ac.kr](mailto:donghae.kim@dgist.ac.kr) with your CV, transcript, and a brief introduction describing your academic background and research interests.
 
 If you are not yet enrolled in a graduate program at DGIST, we encourage you to apply. In your application, you can describe your interest in CiMAS and how your research interests align with our work.
 
