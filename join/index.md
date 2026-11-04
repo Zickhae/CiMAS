@@ -13,7 +13,7 @@ We welcome students from diverse academic backgrounds who are interested in cont
 # Open Positions
 We are recruiting the first cohort of graduate students for CiMAS!
 
-Interested in our research, or simply curious about graduate school? Feel free to [email me](mailto:donghae.kim@dgist.ac.kr) or stop by my office (E7.207) for an informal chat. You do not need to have a specific research topic or a firm decision about graduate school—I am happy to talk about your interests, answer questions, and explore possibilities together. No CV or transcript is needed for an initial conversation.
+Interested in our research, or simply curious about graduate school? Feel free to [email me](mailto:donghae.kim@dgist.ac.kr) or stop by my office (E7.207) for an informal chat. You do not need to have a specific research topic or a firm decision about graduate school. I am happy to talk about your interests, answer questions, and explore possibilities together. No CV or transcript is needed for an initial conversation.
 
 If you decide you would like to pursue a graduate position in CiMAS, please email me your CV, transcript, and a brief introduction describing your academic background and research interests.
 
