@@ -6,14 +6,18 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-hands-helping" %} Join
-We welcome students from diverse academic backgrounds who are interested in control, robotics, and intelligent multi-agent systems. Dr. Kim is committed to providing mentorship and research training that prepare students for careers in academia and industry. His goal is to help students become independent researchers who can develop rigorous theoretical insights and apply them to practical engineering problems.
+We welcome students from diverse academic backgrounds who are interested in control, robotics, and intelligent multi-agent systems. I am committed to providing mentorship and research training that prepare students for careers in academia and industry. My goal is to help students become independent researchers who can develop rigorous theoretical insights and apply them to practical engineering problems.
 
 {% include section.html %}
 
 # Open Positions
-We are recruiting the first cohort of graduate students for CiMAS! If you are interested in joining our group, please email [donghae.kim@dgist.ac.kr](mailto:donghae.kim@dgist.ac.kr) with your CV, transcript, and a brief introduction describing your academic background and research interests.
+We are recruiting the first cohort of graduate students for CiMAS!
 
-If you are not yet enrolled in a graduate program at DGIST, we encourage you to apply. In your application, you can describe your interest in CiMAS and how your research interests align with our work.
+Interested in our research, or simply curious about graduate school? Feel free to [email me](mailto:donghae.kim@dgist.ac.kr) or stop by my office (E7.207) for an informal chat. You do not need to have a specific research topic or a firm decision about graduate school—I am happy to talk about your interests, answer questions, and explore possibilities together. No CV or transcript is needed for an initial conversation.
+
+If you decide you would like to pursue a graduate position in CiMAS, please email me your CV, transcript, and a brief introduction describing your academic background and research interests.
+
+If you are not yet enrolled in a graduate program at DGIST, I encourage you to apply. In your application, you can describe your interest in CiMAS and how your research interests align with our work.
 
 <!--### Staff Positions
 Technician positions open up every 1-2 years.  If you are interested in learning about future opportunities or anticipated hiring timelines, please send an inquiry to [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong@bme.gatech.edu).-->
